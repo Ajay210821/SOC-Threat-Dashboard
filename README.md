@@ -15,3 +15,6 @@ Windows Live Logs mode needs PowerShell run as Administrator.
 
 ## Note
 Educational project. Demo Mode data is simulated. The dashboard is a snapshot view (refresh to reload), not continuous monitoring.
+
+## Screenshot
+![Dashboard](screenshots/overview.png)
