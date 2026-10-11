@@ -7,3 +7,5 @@ venv/
 *.evtx
 app_old_backup.py
 .streamlit/secrets.toml
+app_backup.py
+app_old.py
